@@ -2,7 +2,7 @@
 
 
 
-# My Name is Christian Dominic G. Heyrosa
+# My Name is _Christian Dominic G. Heyrosa_
   
 # And Welcome to My _Web Portfolio_
 
