@@ -1,9 +1,5 @@
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+# My Name is Christian Dominic G. Heyrosa
+## Welcome to My Web Portfoio
 
 Alternatively, for H1 and H2, an underline-ish style:
 
