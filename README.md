@@ -1,7 +1,8 @@
 # My Name is Christian Dominic G. Heyrosa
+  ---------------------------------------
 ## Welcome to My Web Portfolio
 
-#### I know basic vedio editing and photo editing and i am currently studying how to code and become a part of the IT industry one day
+#### _I know basic vedio editing and photo editing and i am currently studying how to code and become a part of the IT industry one day_
 
 
 
