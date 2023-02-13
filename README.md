@@ -1,15 +1,5 @@
-# My Name is Christian Dominic G. Heyrosa
-## Welcome to My Web Portfoio
-
-Alternatively, for H1 and H2, an underline-ish style:
-
-Alt-H1
-======
-
-Alt-H2
-------
-
-
+#My Name is Christian Dominic G. Heyrosa
+##Welcome to My Web Portfoio
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
