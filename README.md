@@ -5,6 +5,18 @@
 #### _I know basic vedio editing and photo editing and i am currently studying how to code and become a part of the IT industry one day_
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 _Video Editing:_
 
 
