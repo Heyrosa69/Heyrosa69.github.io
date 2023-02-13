@@ -32,6 +32,3 @@ _PPSSPP Texture Mod:_
 ![alt text](https://scontent.xx.fbcdn.net/v/t1.15752-9/330637149_1404491370361271_298901342282102490_n.png?stp=dst-png_s403x403&_nc_cat=108&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeGyUwWt7d4bj1MGpCFGoxErYn3EGJX6AFRifcQYlfoAVDDnit5nVkJvO1B38EIgpPg1SMsrjJcpILdTxFza1zS2&_nc_ohc=0VeMlRcMW00AX9uez9b&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSHUAPUwZZ9Nz7Yc7aYt3DfAkVUzKMOr7SDm2vhWSXO4g&oe=64119412)
 
 ![alt text](https://scontent.xx.fbcdn.net/v/t1.15752-9/330765695_567538555406185_2396435633627152706_n.png?stp=dst-png_s843x403&_nc_cat=109&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeFfQyLQkUSBnjbPZUmU0IivM6FOhLXz8QAzoU6EtfPxAMFYZ9MT0fvIm5xGXdlPFlSIHJbpaYhhKA9K2A5STlxi&_nc_ohc=DvBxg-LYEZgAX_LHHsj&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQCjbwTNimhOwHHrzBsM-7qzHtV5MEwJS2UlqMx-rk9Qg&oe=64118753)
-
-
-theme: THEME-NAME
