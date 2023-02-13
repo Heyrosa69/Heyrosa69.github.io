@@ -5,42 +5,38 @@
 #### _I know basic vedio editing and photo editing and i am currently studying how to code and become a part of the IT industry one day_
 
 
+_Video Editing:_
 
-[I'm an inline-style link](https://www.google.com)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+![alt text](https://scontent.xx.fbcdn.net/v/t1.15752-9/330801914_1920709521594911_16789400818473581_n.png?stp=dst-png_s843x403&_nc_cat=103&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeFHqPPcTEK3xnmFJx8wPc1CrBDKzP00EpesEMrM_TQSl3QPPZA6Gcbx07EVQnmkGUq2jYSId38h9GQ1HYo4sg9P&_nc_ohc=CLTxXsuS6t8AX-5-nbh&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdR5pkvBM8V-WpY87xgJO4EX-oaNgNyu_eTsIV95QWsf7Q&oe=641181AE)
 
 
 
 
 
-Here's our logo (hover to see the title text):
+_Photo Editing:_
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-Reference-style: 
-![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+![alt text](https://scontent.xx.fbcdn.net/v/t1.15752-9/331029214_1556125738218510_2567498423079372213_n.png?stp=dst-png_s552x414&_nc_cat=107&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeGZuLx-7Ytr0IZ_Gkrjad7dN7eufg-duLw3t65-D524vOBi7FpHCp-DL74Hxk0H6MVT8gqYq-ptWDIioFYQG26a&_nc_ohc=VV6G2UuzRJ8AX_C_Ohp&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRDFUq9muHFvBrPmFGStv-R5a31DK59blmwhcigMBu7pQ&oe=641176C5)
+
+
+
+_PPSSPP Texture Mod:_
+
+
+
+
+![alt text](https://scontent.xx.fbcdn.net/v/t1.15752-9/330637149_1404491370361271_298901342282102490_n.png?stp=dst-png_s403x403&_nc_cat=108&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeGyUwWt7d4bj1MGpCFGoxErYn3EGJX6AFRifcQYlfoAVDDnit5nVkJvO1B38EIgpPg1SMsrjJcpILdTxFza1zS2&_nc_ohc=0VeMlRcMW00AX9uez9b&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSHUAPUwZZ9Nz7Yc7aYt3DfAkVUzKMOr7SDm2vhWSXO4g&oe=64119412)
+
+![alt text](https://scontent.xx.fbcdn.net/v/t1.15752-9/330765695_567538555406185_2396435633627152706_n.png?stp=dst-png_s843x403&_nc_cat=109&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeFfQyLQkUSBnjbPZUmU0IivM6FOhLXz8QAzoU6EtfPxAMFYZ9MT0fvIm5xGXdlPFlSIHJbpaYhhKA9K2A5STlxi&_nc_ohc=DvBxg-LYEZgAX_LHHsj&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQCjbwTNimhOwHHrzBsM-7qzHtV5MEwJS2UlqMx-rk9Qg&oe=64118753)
+
+
+
+
+
 
 
 
